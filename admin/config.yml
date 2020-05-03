@@ -3,6 +3,10 @@ backend:
     branch: master # Branch to update (optional; defaults to master)
 
 site_url: https://modest-davinci-42f0ad.netlify.app/
+
+publish_mode: editorial_workflow
+
+show_preview_links: true
   
 media_folder: "images"
 public_folder: "images"
