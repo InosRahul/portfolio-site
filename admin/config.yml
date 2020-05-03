@@ -2,7 +2,7 @@ backend:
     name: git-gateway
     branch: master # Branch to update (optional; defaults to master)
 
-site_url: https://modest-davinci-42f0ad.netlify.app/
+site_url: https://modest-davinci-42f0ad.netlify.app/blog
 
 publish_mode: editorial_workflow
 
